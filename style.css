@@ -1,0 +1,130 @@
+body {
+margin: 30px 100px 50px 100px;
+width: 960px;
+
+}
+header img {
+float: right;
+margin: 1px;
+}
+#fork-logo {
+    float: left;
+    margin-right: 5px;
+}
+h1 {
+    font-family: 'Yellowtail', cursive;
+    font-size: 32px;
+    font-weight: 600;
+    font-style: italic;
+    margin-bottom: 3px;
+}
+header p {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-indent: 0px;
+    margin-top: 0px;
+    line-height: 8px;
+}
+header p:last-child{
+    margin-top: 80px;
+}
+h2 {
+    font-size: 48px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px 0px 5px 0px;
+}
+#divOne p {
+    color: #888;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    float: left;
+    text-indent: 0px;
+}
+#divTwo p {
+    float: right;
+    text-indent: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #888;
+}
+#divTwo img {
+    float: right;
+    margin-top: 26px;
+    margin-right: 2px;
+}
+
+#divOne p {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    float: left;
+}
+p {
+    line-height: 25px;
+    color: #777;
+    text-indent: 40px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#notepaper {
+    width: 900px;
+}
+#leftList {
+    position: absolute;
+    top: 1362px;
+    left: 200px;
+}
+#rightList {
+    position: absolute;
+    top: 1362px;
+    left: 590px;
+}
+ul {
+    list-style-type: square;
+}
+li {
+    color: #777;
+    font-size: 36px;
+    line-height: 47px;
+    font-family: 'Patrick Hand', cursive;
+    margin: 0px auto;
+}
+footer img {
+    float: left;
+    margin-top: 70px;
+}
+footer div {
+    float: left;
+    width: 700px;
+    margin-top: 40px;
+}
+footer h3 {
+    margin: 25px;
+    font-size: 24px;
+    color: #555;
+}
+footer p:first-child {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-indent: 0px;
+    margin: 50px 0px 0px 0px;
+    line-height: 8px;
+}
+footer p {
+    text-indent: 0px;
+    margin: 25px;
+    font-size: 22px;
+}
+footer h4 {
+    float: right;
+    background-color: rgb(158, 75, 20);
+    color: rgb(255,255,255);
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding: 18px 30px 18px 30px;
+    font-weight: 300;
+    margin-top: 70px;
+}
