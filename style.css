@@ -80,7 +80,8 @@ p {
 #rightList {
     position: absolute;
     top: 1362px;
-    left: 590px;
+    left: 570px;
+    width: 500px;
 }
 ul {
     list-style-type: square;
@@ -95,6 +96,13 @@ li {
 footer img {
     float: left;
     margin-top: 70px;
+}
+#logo {
+    position: absolute;
+    top: 1960px;
+    left: 560px;
+    margin-top: 80px;
+    margin-bottom: 20px;
 }
 footer div {
     float: left;
@@ -128,3 +136,19 @@ footer h4 {
     font-weight: 300;
     margin-top: 70px;
 }
+footer div:last-child{
+    width: 100%;
+    margin-top: 20px;
+}
+footer div:last-child p {
+    color: #777;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: center;
+    line-height: 5px;
+}
+#line {
+    width: 100%;
+    height:1px;   
+    background:#999;
+    }
